@@ -1,0 +1,49 @@
+
+Input command:display
+The available locales are:
+en
+ro
+
+Input command:info
+country: US
+Information about US:
+Country: United States
+Language: English
+Currency: US Dollar
+Week Days: Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, , Sunday, 
+Months: January, February, March, April, May, June, July, August, September, October, November, December, 
+Today: Friday, May 22, 2020
+Continent: AM
+Capital: Washington
+Phone Code: 1
+
+Input command:set
+The current locale is US
+ro_RO
+Localizarea curenta este RO
+
+Comanda ta:info
+country: RO
+Informatii despre localizarea RO:
+Country: Romania
+Language: Romanian
+Currency: Romanian Leu
+Week Days: luni, marţi, miercuri, joi, vineri, , duminică, luni, 
+Months: ianuarie, februarie, martie, aprilie, mai, iunie, iulie, august, septembrie, octombrie, noiembrie, decembrie, 
+Today: 22 mai 2020
+Continent: EU
+Capital: Bucharest
+Phone Code: 40
+
+Comanda ta:display
+Localizarile disponibile sunt:
+en
+ro
+
+Comanda ta:gresit
+Comanda necunoascuta
+
+Comanda ta:set
+Localizarea curenta este RO
+ro_RO
+Localizarea curenta este RO
